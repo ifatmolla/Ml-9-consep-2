@@ -1,0 +1,62 @@
+[
+  {
+    "reviewId": "1",
+    "name": "John Doe",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "The service was excellent and the staff was very friendly!"
+  },
+  {
+    "reviewId": "2",
+    "name": "Jane Smith",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "Highly satisfied with the treatment. Would recommend to others."
+  },
+  {
+    "reviewId": "3",
+    "name": "Alice Johnson",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "Good experience overall, but there was a slight delay."
+  },
+  {
+    "reviewId": "4",
+    "name": "Robert Brown",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "The facility was clean and the staff was very professional."
+  },
+  {
+    "reviewId": "5",
+    "name": "Emma Wilson",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "Amazing experience! The staff was very kind and helpful."
+  },
+  {
+    "reviewId": "6",
+    "name": "Michael Taylor",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "I loved the service! Very efficient and hassle-free."
+  },
+  {
+    "reviewId": "7",
+    "name": "Sophia Davis",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "The doctor explained everything clearly and was very caring."
+  },
+  {
+    "reviewId": "8",
+    "name": "William Martinez",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "Affordable pricing and great service. Highly recommend."
+  },
+  {
+    "reviewId": "9",
+    "name": "Olivia Garcia",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "The process was smooth, and the staff was very accommodating."
+  },
+  {
+    "reviewId": "10",
+    "name": "James Anderson",
+    "userImg": "https://i.ibb.co.com/8B7sbzM/gratisography-cool-cat-800x525.jpg",
+    "review": "Overall, a pleasant experience. Will visit again for sure!"
+  }
+]

@@ -1,0 +1,73 @@
+ [
+    {
+      "id": 1,
+      "treatment": "Root Canal Therapy",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "A procedure to treat infection in the tooth's root.",
+      "cost": 5000
+    },
+    {
+      "id": 2,
+      "treatment": "Teeth Whitening",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "A cosmetic procedure to make teeth appear whiter.",
+      "cost": 3000
+    },
+    {
+      "id": 3,
+      "treatment": "Dental Crown",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "A cap placed over a damaged tooth.",
+      "cost": 7000
+    },
+    {
+      "id": 4,
+      "treatment": "Tooth Extraction",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "Removal of a damaged or decayed tooth.",
+      "cost": 2000
+    },
+    {
+      "id": 5,
+      "treatment": "Braces",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "Used to align and straighten teeth.",
+      "cost": 15000
+    },
+    {
+      "id": 6,
+      "treatment": "Dental Implant",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "A surgical component that interfaces with the jawbone.",
+      "cost": 25000
+    },
+    {
+      "id": 7,
+      "treatment": "Fillings",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "Used to restore the function and integrity of missing tooth structure.",
+      "cost": 1000
+    },
+    {
+      "id": 8,
+      "treatment": "Scaling and Polishing",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "Removes plaque and tartar from teeth surfaces.",
+      "cost": 1500
+    },
+    {
+      "id": 9,
+      "treatment": "Orthodontic Treatment",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "Corrects irregularities in teeth and jaws.",
+      "cost": 20000
+    },
+    {
+      "id": 10,
+      "treatment": "Gum Surgery",
+      "image": "https://i.ibb.co.com/z2xhYB3/kids-dentistry.jpg",
+      "description": "Surgical procedure to treat gum diseases.",
+      "cost": 12000
+    }
+  ]
+  
